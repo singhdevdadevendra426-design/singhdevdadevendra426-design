@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi 👋, I'm Devendra Singh Devda
 
-<!--
-**singhdevdadevendra426-design/singhdevdadevendra426-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 B.Tech CSE Student
+- 🌱 Learning MERN Stack & AI Development
+- 🤖 Interested in AI Chatbots & Open Source
+- 💻 Passionate about Web Development
+- 🏆 Contributor at GSSoC 2026
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- Python
+- C++
+- React 
+- Git & GitHub
+
+---
+
+## 📌 Projects
+- AI Chatbot
+- LMS System
+- AI Assistant
+- Portfolio Website
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://linkedin.com/in/devendra-singh-devda-960b8137b
+- GitHub: https://github.com/singhdevdadevendra426-design
